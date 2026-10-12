@@ -65,7 +65,14 @@ li a:hover {
   color: #d9577e;
   transform: translateY(-1px);
 }
-    
+
+.logo img {
+  width: 450px;
+  max-width: 100%;
+  height: auto;
+}
+
+
 img {
 max-width: 100%;
 height: auto;
