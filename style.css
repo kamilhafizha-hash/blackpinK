@@ -25,6 +25,8 @@ color: #d63384;
 text-align: center;
 }
 
+img {width:250px;}
+    
 ul {
 list-style: none;
 padding: 0;
