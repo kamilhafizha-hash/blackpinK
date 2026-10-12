@@ -79,6 +79,16 @@ li a:hover {
   backround-color: white;
 }
 
+.filosofi h2 {
+  color: #d9577e;
+  margin-bottom: 15px;
+}
+
+.filosifi p {
+  min-height: 80px;
+}
+
+
 img {
 max-width: 100%;
 height: auto;
