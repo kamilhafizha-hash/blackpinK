@@ -72,6 +72,12 @@ li a:hover {
   height: auto;
 }
 
+.filosofi {
+  border: 2px solid #d9577e;
+  border-radius: 15px;
+  margin-bottom: 35px;
+  backround-color: white;
+}
 
 img {
 max-width: 100%;
