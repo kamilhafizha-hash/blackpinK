@@ -12,3 +12,51 @@ h1 {text-align:center;
 body {background-color:pink;}
 p {text-align:right;
   Font-size:18px}
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 20px;
+background-color: #fff0f5;
+color: #333;
+}
+
+h1 {
+color: #d63384;
+text-align: center;
+}
+
+ul {
+list-style: none;
+padding: 0;
+display: flex;
+justify-content: center;
+background-color: #ffb6c1;
+border-radius: 6px;
+margin-bottom: 20px;
+}
+
+li a {
+display: block;
+padding: 12px 20px;
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+transition: background 0.3s;
+}
+
+li a:hover {
+background-color: #ff69b4;
+border-radius: 6px;
+}
+
+img {
+max-width: 100%;
+height: auto;
+display: block;
+margin: 0 auto 20px auto;
+border-radius: 8px;
+}
+
+h2 {
+color: #c71585;
+}
